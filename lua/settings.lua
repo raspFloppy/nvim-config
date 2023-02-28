@@ -28,6 +28,7 @@ o.mouse = 'v'
 o.mouse = 'a'
 
 
-vim.cmd('colorscheme tokyonight')
+vim.cmd('set termguicolors')
+vim.cmd('colorscheme horizon')
 o.background= 'dark'
 o.t_Co=256

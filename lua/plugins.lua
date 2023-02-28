@@ -41,7 +41,7 @@ require('packer').startup(function(use)
     ---------------------
     --  USER INTERFACE --
     ---------------------
-    use 'folke/tokyonight.nvim'
+    use 'ntk148v/vim-horizon'
     use 'nvim-tree/nvim-web-devicons'
     use {'romgrk/barbar.nvim', wants = 'nvim-web-devicons'}
 
